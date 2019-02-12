@@ -1,0 +1,56 @@
+body {
+  overflow-x: hidden;
+}
+
+.top-margin-lg {
+  margin-top: 100px;
+}
+
+.top-margin-sm {
+  margin-top: 25px;
+}
+.card {
+  padding: 25px;
+}
+.product-img {
+  display: block;
+  margin: 25px auto;
+  width: 100%;
+}
+
+.card-title{
+  font-weight: bold;
+  font-size: 110%;
+}
+
+.card-subtitle {
+  font-style: italic;
+  font-size: 90%;
+}
+
+.card > button {
+  display: block;
+  margin: 25px auto;
+  width: 80%;
+}
+.card>h4 {
+  padding-top: 15px;
+}
+footer {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+footer p {
+  color: rgba(255, 255, 255, 0.8);
+  padding: 25px;
+}
+
+.prof_pic{
+  width: 25px;
+  height: 25px;
+  margin-bottom: 10px;
+  float: right;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
